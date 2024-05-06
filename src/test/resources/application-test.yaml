@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: emailsender-test
+
+mailSender:
+  apiUrl: https://stoplight.io/mocks/railsware/mailtrap-api-docs/93404133/api/send
+  apiToken: Bearer b731b3e4948dd5e3fd1a3758371b6213

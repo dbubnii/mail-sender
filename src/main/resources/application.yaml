@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: emailsender
+
+mailSender:
+  apiUrl: https://send.api.mailtrap.io/api/send
+  apiToken: Bearer b731b3e4948dd5e3fd1a3758371b6213
